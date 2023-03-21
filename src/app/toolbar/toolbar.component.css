@@ -1,0 +1,18 @@
+.menu{
+    height: var(--navbar_hg);
+    width: var(--width_general);
+    background-color: #0769e9;
+    display: flex;
+    list-style: none;
+}
+.menu_ul{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.menu_item {
+    margin: 0 10px;
+    width: max-content;
+    text-transform: uppercase;
+    line-height: 6m0px;
+}
