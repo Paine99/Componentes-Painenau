@@ -1,0 +1,7 @@
+aside{
+    margin-top:var (--navbar_hg);
+    height: 100vh;
+    width: var(--width_aside);
+    background-color: orange;
+    position: fixed;
+} 

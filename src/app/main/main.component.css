@@ -1,0 +1,7 @@
+section{
+    margin-left:var(--width_aside);
+    height: 100vh;
+    width:85%;
+    background-color: rgb(135, 39, 199);
+    position: fixed;
+}

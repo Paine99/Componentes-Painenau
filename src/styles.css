@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --navbar_hg: 64px;
+    --width_general:100%;
+    --width_aside:15%;
+    --width_main:85%;
+}
